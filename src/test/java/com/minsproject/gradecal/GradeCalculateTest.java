@@ -1,4 +1,4 @@
-package com.minsproject.gradeCal;
+package com.minsproject.gradecal;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

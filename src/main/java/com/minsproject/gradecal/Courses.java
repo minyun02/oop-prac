@@ -1,4 +1,4 @@
-package com.minsproject.gradeCal;
+package com.minsproject.gradecal;
 
 import java.util.List;
 

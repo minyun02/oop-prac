@@ -1,4 +1,4 @@
-package com.minsproject.gradeCal;
+package com.minsproject.gradecal;
 
 public class Course {
     private final String subject;
