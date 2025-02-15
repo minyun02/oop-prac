@@ -18,7 +18,7 @@ public class GradeCalculate {
         // (학점수*교과목 평점)의 합계
         double mulitpliedCreditAndCourseGrade = 0;
         for (Course course : courses) {
-            mulitpliedCreditAndCourseGrade += course.getCredit() * course.getGradeToNumber();
+            mulitpliedCreditAndCourseGrade += course.multiplyCreditAndCourseGrade();
         }
 
         // 수강신청 총학점 수

@@ -39,4 +39,8 @@ public class Course {
         }
         return number;
     }
+
+    public double multiplyCreditAndCourseGrade() {
+        return this.credit * getGradeToNumber();
+    }
 }
